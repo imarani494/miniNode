@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1686829916732",
+    "title": "Complete Node.js task manager",
+    "dueDate": "2025-06-16",
+    "completed": false
+  },
+  {
+    "id": "1686830012456",
+    "title": "Submit project to Masai portal",
+    "dueDate": "2025-06-17",
+    "completed": true
+  }
+]
